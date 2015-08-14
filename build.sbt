@@ -1,7 +1,7 @@
 Nice.scalaProject
 
 name := "git"
-organization := "ohnosequencesBundles"
+organization := "ohnosequences-bundles"
 description := "A bundle for git tool"
 
 publishBucketSuffix := "era7.com"
